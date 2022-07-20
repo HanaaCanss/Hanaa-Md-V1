@@ -5,6 +5,7 @@ pkg install ffmpeg -y
 pkg install imagemagick -y
 pkg install yarn
 git clone https://github.com/HanaaCanss/Hanaa-Md-V1
+cd Hanaa-Md-V1
 yarn
 node .
 
